@@ -5,6 +5,7 @@
   --container-font-color: rgba(191, 191, 191, 98);
   --shadow: 0 .4rem .8rem rgba(255, 255, 255, .3);
   --bdrs: .5rem;
+  --remaining-color: rgb(61, 97, 255);
 }
 
 * {
@@ -80,5 +81,5 @@ p {
 }
 
 .remaining {
-  color: rgb(61, 97, 255);
+  color: var(--remaining-color)
 }
