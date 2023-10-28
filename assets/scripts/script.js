@@ -8,7 +8,4 @@ textareaEl.addEventListener("input", () => {
   totalEl.innerHTML = text;
   remaining.innerHTML = remainingCharacter;
 
-  // if(remainingCharacter <= (remainingCharacter * 0.1)) {
-  //   remaining.style.setProperty("----remaining-color", "red");
-  // }
 })
