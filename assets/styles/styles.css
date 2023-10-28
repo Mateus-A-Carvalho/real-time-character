@@ -52,6 +52,7 @@ body {
 textarea {
   width: 90%;
   padding: 1rem;
+  font-style: italic;
   background-color: rgba(217, 217, 217, .98);
   border: none;
   color: var(--container-bg);
@@ -78,6 +79,6 @@ p {
   color: rgb(5, 216, 5);
 }
 
-.remaing {
-  color: rgb(61, 61, 255);
+.remaining {
+  color: rgb(61, 97, 255);
 }
